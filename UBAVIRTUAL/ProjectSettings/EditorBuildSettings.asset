@@ -11,6 +11,81 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Piso_PB.unity
     guid: 853b384ae435a5949aa59e1cfe152952
+  - enabled: 1
+    path: Assets/Scenes/entrada_al_forun.unity
+    guid: b445c832fb2970c4492e0f1362c1606c
+  - enabled: 1
+    path: Assets/Scenes/Aula_P3.unity
+    guid: e97f89ef47bd638448e45e51f199a559
+  - enabled: 1
+    path: Assets/Scenes/Biblioteca_perspectiva_al_frente.unity
+    guid: ccd8b388a58f2cb4a9ef0b7c5e907ce1
+  - enabled: 1
+    path: Assets/Scenes/Camino_cdad_forum.unity
+    guid: 07034c4aa812d9547964a760859fa4f9
+  - enabled: 1
+    path: Assets/Scenes/Camino_edif_administracion.unity
+    guid: 742725223f20d984e8d487c487d1e906
+  - enabled: 1
+    path: Assets/Scenes/Centro_de_estacioamiento.unity
+    guid: 2acbde39ab5bf11439481a2a0f6c7207
+  - enabled: 1
+    path: Assets/Scenes/ciudad_Uba_entrada.unity
+    guid: d1da325c0e6f9264bacc54ce94ff481e
+  - enabled: 1
+    path: Assets/Scenes/Cuidad_uba_atras.unity
+    guid: 3215598155114024db21972d857d0a16
+  - enabled: 1
+    path: Assets/Scenes/Dentro_del_forum_1.unity
+    guid: 8a5285deea3180d4d83f65f963d44046
+  - enabled: 1
+    path: Assets/Scenes/Dentro_del_forum_2.unity
+    guid: 3aa032bf192e2b848a8227108685fb42
+  - enabled: 1
+    path: Assets/Scenes/edificio_de_admiinistraciom.unity
+    guid: 46690f1dcaf7aa74db01fc7fd66ffc79
+  - enabled: 1
+    path: Assets/Scenes/Edifio_de_abogados.unity
+    guid: 35b85d7b23bdf954fa5a52c4b8d476f1
+  - enabled: 1
+    path: Assets/Scenes/entrada 1.1.unity
+    guid: 8d493256160939548bcb56cf7cb4bce3
+  - enabled: 1
+    path: Assets/Scenes/Entrada_al_pasaje.unity
+    guid: 25fea2719cbea8b419d2506e43633e2e
+  - enabled: 1
+    path: Assets/Scenes/entrada_ING_IZQ.unity
+    guid: 307074a69b59ecc45a07e46f9c5ecf70
+  - enabled: 1
+    path: Assets/Scenes/Entrada_uba_perspectiva_unica.unity
+    guid: 298d2cd83f521fa43a55e50a143fd587
+  - enabled: 1
+    path: Assets/Scenes/Estacionamiento_perspectiva_al_parque.unity
+    guid: ca3bc1474d3403246a4360ea1f7908c4
+  - enabled: 1
+    path: Assets/Scenes/Forun.unity
+    guid: 1f8e1b984f3ca6d489aea99879234baa
+  - enabled: 1
+    path: Assets/Scenes/Forun_estacionamienti.unity
+    guid: 0ca8d2304a736e7499deec6ec25127c1
+  - enabled: 1
+    path: Assets/Scenes/Musica.unity
+    guid: 71443465674c9de44bad7e5e54745144
+  - enabled: 1
+    path: Assets/Scenes/pasaje_mitad.unity
+    guid: 7cba8f34f9c32bf4bbe29566cea95d27
+  - enabled: 1
+    path: Assets/Scenes/Piso_1.unity
+    guid: 36dfe75df11eb974faa5ce8107d07293
+  - enabled: 1
+    path: Assets/Scenes/Piso_3.unity
+    guid: 76bd524a0e6511148a7ce84b388a8e40
+  - enabled: 1
+    path: Assets/Scenes/Piso_4.unity
+    guid: 744d09be273e34a4a95fbbea7f0ece70
+  - enabled: 1
+    path: Assets/Scenes/Vista_cafetin.unity
+    guid: dde7f46cc6e2025469aabcfde8e4361c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9eed706f747b7704492d43fd44bb382d, type: 2}
