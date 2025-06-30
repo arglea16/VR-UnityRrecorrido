@@ -206,8 +206,30 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1203811090}
   m_SourcePrefab: {fileID: 100100000, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+--- !u!1 &1203811089 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+  m_PrefabInstance: {fileID: 1203811088}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1203811090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203811089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nombreDeLaEscena: 
+  sonido: {fileID: 0}
 --- !u!1 &1215046883
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,8 +438,30 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1293601733}
   m_SourcePrefab: {fileID: 100100000, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+--- !u!1 &1293601732 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b4bfa47e700c05446bcdad6bcc27de63, type: 3}
+  m_PrefabInstance: {fileID: 1293601731}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1293601733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1293601732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nombreDeLaEscena: 
+  sonido: {fileID: 0}
 --- !u!1001 &1438058141
 PrefabInstance:
   m_ObjectHideFlags: 0
