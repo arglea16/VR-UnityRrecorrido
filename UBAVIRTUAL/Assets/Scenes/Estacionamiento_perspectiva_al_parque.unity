@@ -254,7 +254,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.0000000018600704
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -262,35 +262,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.016141e-10
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.47784716
+      value: 0.9993462
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0.0003445745
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.87844306
+      value: -0.032608513
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: -0.0156146055
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -0.019
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 482.91
+      value: 716.263
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -1.79
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Camino_edif_administracion
   sonido: {fileID: 0}
 --- !u!1001 &1609812251
 PrefabInstance:
@@ -517,7 +517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Edifio_de_administracion
   sonido: {fileID: 0}
 --- !u!1001 &1976976994
 PrefabInstance:
@@ -628,7 +628,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Camino_cdad_forun
   sonido: {fileID: 0}
 --- !u!1001 &2071285845
 PrefabInstance:
@@ -739,7 +739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Centro_de_estacionamiento
   sonido: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

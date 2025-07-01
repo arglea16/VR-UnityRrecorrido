@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Ciudad_uba_atras
   sonido: {fileID: 0}
 --- !u!1 &507057187
 GameObject:
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Sample Scene
   sonido: {fileID: 0}
 --- !u!1001 &948173406
 PrefabInstance:
@@ -571,7 +571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Ciudad_uba_atras
   sonido: {fileID: 0}
 --- !u!1001 &1260622303
 PrefabInstance:

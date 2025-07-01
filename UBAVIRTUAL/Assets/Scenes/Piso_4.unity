@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Piso_3
   sonido: {fileID: 0}
 --- !u!1 &1852364635
 GameObject:

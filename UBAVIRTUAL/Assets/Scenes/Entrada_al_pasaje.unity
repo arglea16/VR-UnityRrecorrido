@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: pasaje_mitad
   sonido: {fileID: 0}
 --- !u!1001 &187606701
 PrefabInstance:
@@ -339,7 +339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Sample Scene
   sonido: {fileID: 0}
 --- !u!1001 &195663072
 PrefabInstance:
@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32f070df63890fc4c98a1690dfd3e97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeLaEscena: 
+  nombreDeLaEscena: Musica
   sonido: {fileID: 0}
 --- !u!1 &478944933
 GameObject:
@@ -599,31 +599,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.81631565
+      value: 0.9997396
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.008806598
+      value: -0.0037468064
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.5772179
+      value: -0.008521361
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.019251559
+      value: 0.020836039
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 2.098
+      value: -0.409
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -70.506
+      value: -0.985
       objectReference: {fileID: 0}
     - target: {fileID: 6489860511889522108, guid: b5b1d437080d2c64db1528b939c97d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 1.219
+      value: 2.391
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

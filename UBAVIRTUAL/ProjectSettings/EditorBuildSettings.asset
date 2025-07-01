@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Aula_P3.unity
     guid: e97f89ef47bd638448e45e51f199a559
   - enabled: 1
-    path: Assets/Scenes/Biblioteca_perspectiva_al_frente.unity
+    path: Assets/Scenes/Biblioteca_pf.unity
     guid: ccd8b388a58f2cb4a9ef0b7c5e907ce1
   - enabled: 1
     path: Assets/Scenes/Camino_cdad_forum.unity
@@ -27,22 +27,22 @@ EditorBuildSettings:
     path: Assets/Scenes/Camino_edif_administracion.unity
     guid: 742725223f20d984e8d487c487d1e906
   - enabled: 1
-    path: Assets/Scenes/Centro_de_estacioamiento.unity
+    path: Assets/Scenes/Centro_de_estacionamiento.unity
     guid: 2acbde39ab5bf11439481a2a0f6c7207
   - enabled: 1
-    path: Assets/Scenes/ciudad_Uba_entrada.unity
+    path: Assets/Scenes/ciudad_uba_entrada.unity
     guid: d1da325c0e6f9264bacc54ce94ff481e
   - enabled: 1
     path: Assets/Scenes/Cuidad_uba_atras.unity
     guid: 3215598155114024db21972d857d0a16
   - enabled: 1
-    path: Assets/Scenes/Dentro_del_forum_1.unity
+    path: Assets/Scenes/Dentro_del_forun_1.unity
     guid: 8a5285deea3180d4d83f65f963d44046
   - enabled: 1
-    path: Assets/Scenes/Dentro_del_forum_2.unity
+    path: Assets/Scenes/Dentro_del_forun_2.unity
     guid: 3aa032bf192e2b848a8227108685fb42
   - enabled: 1
-    path: Assets/Scenes/edificio_de_admiinistraciom.unity
+    path: Assets/Scenes/edificio_de_administracion.unity
     guid: 46690f1dcaf7aa74db01fc7fd66ffc79
   - enabled: 1
     path: Assets/Scenes/Edifio_de_abogados.unity
@@ -66,7 +66,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Forun.unity
     guid: 1f8e1b984f3ca6d489aea99879234baa
   - enabled: 1
-    path: Assets/Scenes/Forun_estacionamienti.unity
+    path: Assets/Scenes/Forun_estacionamiento.unity
     guid: 0ca8d2304a736e7499deec6ec25127c1
   - enabled: 1
     path: Assets/Scenes/Musica.unity
@@ -87,6 +87,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Vista_cafetin.unity
     guid: dde7f46cc6e2025469aabcfde8e4361c
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 487aeec608036ba4b9de6f140917f619, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9eed706f747b7704492d43fd44bb382d, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4072435b69fafb9458c15f0f8849584e, type: 2}
