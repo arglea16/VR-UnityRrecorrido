@@ -30,7 +30,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Centro_de_estacionamiento.unity
     guid: 2acbde39ab5bf11439481a2a0f6c7207
   - enabled: 1
-    path: Assets/Scenes/ciudad_uba_entrada.unity
+    path: Assets/Scenes/ciudad_Uba_entrada.unity
     guid: d1da325c0e6f9264bacc54ce94ff481e
   - enabled: 1
     path: Assets/Scenes/Cuidad_uba_atras.unity
